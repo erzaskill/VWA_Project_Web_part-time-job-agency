@@ -1,0 +1,38 @@
+td{
+	color: white;
+}
+.td_obrazek {
+	width: 40px;
+	padding: 5px 0;
+	height: 40px;
+	
+	
+}
+.td_menu {
+	width: 180px;
+	text-align: center;
+	background-color: maroon;
+	padding: 5px 0;
+	border-spacing: 5em;
+	border-radius: 5px;
+	
+}
+.menu2 {
+	border-spacing: 15px;
+	
+}
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 16px;
+}
+a:hover {
+	color: black;
+}
+.td_menu:hover {
+	background-color: olive;
+}
+
+
+
+

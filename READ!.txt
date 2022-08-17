@@ -1,0 +1,5 @@
+Z projektu jsem dostal 40/50 b.
+Nepouzival jsem zadny framework, coz je velka chyba, za kterou by Vam mohl sebrat jeste vice bodu, nez sebral mne.
+Protoze o tom ten predmet byl.
+Jeste mi sebral body, kvuli tomu, ze jsem nemel zabezpeceny login, protoze do inputu si mohl zadat prikaz drop table (vyhodit celou tabulku z databaze do ..)
+Chyba by se vyresila zadanim prikazu bindparams -> viz cviceni

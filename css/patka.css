@@ -1,0 +1,16 @@
+.l_td {
+	 width: 460px;
+	 text-align: left;
+}
+
+.r_td {
+	 width: 460px;
+	 text-align: right;
+}
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+.patka {
+	color: white;
+}

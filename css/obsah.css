@@ -1,0 +1,50 @@
+h1 {
+	font-size: 40px;
+	color: white;
+	padding: 40px 0px 40px 0px;
+	text-decoration: underline;
+	font-variant:small-caps;
+	font-weight: bold;
+	width: 1200px;
+	text-align: left;
+	margin: 0 auto;
+
+	
+	
+	 
+}
+.hlavicka td {
+	text-align: center;
+}
+th {
+	color:white;
+	background-color: black;
+	border: 1px solid white;
+
+}
+.white tr td {
+
+	background-color: rgba(0, 0, 0, 0.5) !important;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+
+
+}
+
+p {
+	color: white;
+	padding: 0px 0px 0px 40px;
+	text-align: justify;
+	font-size: 20px;
+}
+p:first-letter {
+	font-size: 35px;
+	
+}
+.form {
+    color: white;
+    padding: 0px 0px 0px 40px;
+    
+}
+
